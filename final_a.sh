@@ -1,2 +1,4 @@
 #!/bin/bash
-gisc() { echo "renee.giragosian01@student.csulb.edu" }
+gisc605() { echo "renee.giragosian01@student.csulb.edu" }
+
+gisc605()

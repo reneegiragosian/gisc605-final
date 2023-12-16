@@ -1,2 +1,2 @@
 # gisc605-final
-Repository for GISC 605 final
+# This is my repository to house my GISC 605 Final
